@@ -60,7 +60,7 @@ const Index = () => {
             <div className="space-y-4">
               <h5 className="text-lg font-semibold text-foreground mb-4">Program Overview</h5>
               <p className="text-muted-foreground mb-4">
-                Over the period of July 2020 to October 2020, the participant has completed practical task modules in:
+                Over the period of June 2025 to July 2025, the participant has completed practical task modules in:
               </p>
               <ul className="space-y-2 text-foreground">
                 <li className="flex items-start gap-3">
