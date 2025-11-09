@@ -50,7 +50,7 @@ const Index = () => {
               </h4>
               <div className="flex items-center justify-center gap-2 text-muted-foreground mb-8">
                 <Calendar className="h-5 w-5" />
-                <span className="text-lg">October 24th, 2020</span>
+                <span className="text-lg">July 14th, 2025</span>
               </div>
             </div>
 
